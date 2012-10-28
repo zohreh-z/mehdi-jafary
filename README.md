@@ -7,7 +7,7 @@ The website for the **MR.jafary**
 
 * Check our project's source with
 ```
-    git clone https://
+    git clone https://github.com/zohreh-z/mehdi-jafary.git
 ```
 
 ###Buliding Technologies
