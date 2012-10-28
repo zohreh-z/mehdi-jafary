@@ -31,6 +31,6 @@ Please note that ??????.??? is a curated site and that we reserve the right to r
 
 The [??????.???](http://??????.???) code and website is released under a MIT License.
 
-Our sample for designing is this site : http:/
+Our sample for designing is this site : http://themeforest.net/item/naturel-professional-xhtmlcss-theme/full_screen_preview/102861
 
 Produced by team ????? (atumn 2012)
