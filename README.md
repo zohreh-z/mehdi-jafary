@@ -3,7 +3,7 @@ The website for the **MR.jafary**
 
 ###Contributing
 
-* Check our projec's website and report any bugs or ideas in [issues](https://)
+* Check our projec's website and report any bugs or ideas in [issues](https://github.com/zohreh-z/mehdi-jafary.git)
 
 * Check our project's source with
 ```
